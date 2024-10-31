@@ -1,6 +1,8 @@
 # Personalised-WhatsApp-broadcaster
 Send personalised Holi, Diwali, Christmas and other festivals messages to your contacts in an automated way
 
+Run the file in Jupter Notebook
+
 <h1>Requirements</h1>
 
 <h2>CSV file with contact list</h2>
