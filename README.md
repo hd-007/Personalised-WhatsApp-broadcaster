@@ -6,6 +6,7 @@ Send personalised Holi, Diwali, Christmas and other festivals messages to your c
 <h2>CSV file with contact list</h2>
 
 Name	Phone
+
 xyz	123456789
 abc 987654321
 
